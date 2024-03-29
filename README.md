@@ -4,6 +4,10 @@
 
 A collection of things not present in the Python standard library.
 
+## Status
+
+Behaviours and interfaces can change between versions at any time.
+
 ## Developing
 
 Run all these commands from the project root directory.
